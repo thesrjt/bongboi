@@ -18,7 +18,7 @@ This repo contains bengali EPUB books which are out of copyright & available in 
 # License
 ⚠️ **CC-BY-NC** [Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
  
-You are free to
+You are free to:
 
 *Share* — copy and redistribute the material in any medium or format
 
